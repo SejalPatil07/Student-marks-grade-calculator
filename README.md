@@ -52,6 +52,20 @@ The validation feature was also tested with an invalid mark such as 110. The pro
 - Teachers
 - Academic users
 
+
+
+
+## Screenshots
+
+### Successful Output
+![Successful Output](successful_output.png)
+
+### Validation Test
+![Validation Test](validation_test.png)
+
+### Project Structure
+![Project Structure](project_structure.png)
+
 ## Future Enhancements
 
 - Add more subjects
