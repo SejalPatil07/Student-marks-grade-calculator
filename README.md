@@ -70,3 +70,11 @@ The validation feature was also tested with an invalid mark such as 110. The pro
 
 ### Project Structure
 ![Project Structure](project_structure.png)
+
+
+
+Future Enhancements
+Add more subjects
+Store student results
+Generate a result report
+Add a graphical user interface
