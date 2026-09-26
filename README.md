@@ -68,7 +68,8 @@ The validation feature was also tested with an invalid mark such as 110. The pro
 ### Validation Test
 ![Validation Test](validation_test.png)
 
-
+### Project Structure
+![Project Structure](project_structure.png)
 
 
 
