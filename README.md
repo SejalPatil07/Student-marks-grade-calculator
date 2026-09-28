@@ -66,7 +66,7 @@ The validation feature was also tested with an invalid mark such as 110. The pro
 ![Successful Output](successful_output.png)
 
 ### Validation Test
-![Validation Test](validation_test.png)
+![Validation Test](new_validation_test.png)
 
 ### Project Structure
 ![Project Structure](new_project_structure.png)
