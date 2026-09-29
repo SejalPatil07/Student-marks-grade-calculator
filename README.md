@@ -42,7 +42,7 @@ The project also validates the marks entered by the user to ensure that they are
 
 ## Testing
 
-The project was tested with valid marks such as 80, 90, and 70.
+The project was tested with valid marks such as 80, 70, and 90.
 
 The validation feature was also tested with an invalid mark such as 110. The program correctly displayed an invalid marks message.
 
